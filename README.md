@@ -15,3 +15,6 @@ google SketchUp
 
 kicad
 
+
+"scratch" questo del MIT è un linguaggio di programmazione per bimbi che poi è usato anche in tinkercad
+
